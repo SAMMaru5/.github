@@ -13,8 +13,8 @@
 샘마루는 알고리즘&웹 동아리로 기초 프로그래밍과 자료구조 및 알고리즘 학습 이외에도 네트워크, 웹, 어플리케이션 등 다양한 분야의 학습을 함께합니다.    <br/><br/>  
   
   
-  ## 항상 노력하며 실력을 키우는 동아리      
-동아리명 샘마루는 'Software Algorithm Master' 의 약자 SAM(샘)과 '최고', '하늘' 을 뜻하는      
+## 항상 노력하며 실력을 키우는 동아리      
+동아리명 샘마루는 'Software Algorithm Master' 의 약자 SAM(샘)과 '최고', '하늘'을 뜻하는      
 순우리말 마루를 합쳐 만들어진 알고리즘 동아리 입니다.      <br/><br/>
 
 알고리즘의 학습을 위해 기초프로그래밍(C, C++)을 시작으로 자료구조를 공부하고 알고리즘 스터디를 통해       
@@ -30,6 +30,6 @@
 
 |동아리명|회장|부회장|홈페이지|연구분야|
 |:---:|:---:|:---:|:---:|:---:|
-|SAMMaru|조희진|주시원|http://sammaru.cbnu.ac.kr|Programming, Algorithm, App, Web etc.|
+|SAMMaru|조희진|주시원|https://sammaru.cbnu.ac.kr|Programming, Algorithm, App, Web etc.|
   
 </div>
