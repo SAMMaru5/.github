@@ -30,6 +30,6 @@
 
 |동아리명|회장|부회장|홈페이지|연구분야|
 |:---:|:---:|:---:|:---:|:---:|
-|SAMMaru|조희진|주시원|https://sammaru.cbnu.ac.kr|Programming, Algorithm, App, Web etc.|
+|SAMMaru|조희진|고영민|https://sammaru.cbnu.ac.kr|Programming, Algorithm, App, Web etc.|
   
 </div>
